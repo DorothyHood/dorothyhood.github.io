@@ -1,0 +1,12 @@
+body {
+    background-color: linen;
+}
+h1 {
+    font-family: 'Orbitron', sans-serif;
+}
+
+ul.solid {
+    border-style: solid;
+    background-color: pink;
+}
+
