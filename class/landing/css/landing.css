@@ -1,0 +1,35 @@
+body {
+    background-color: linen;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size:20px;
+}
+h1 {
+    font-family: 'Orbitron', sans-serif;
+    font-size:3em;
+}
+
+ul{
+    background-color: lightpink;
+    padding: 5% 20%;
+}
+.description{
+    margin: 2em 0;
+}
+
+.address,
+footer{
+    line-height:.5;
+    font-size:.75em;
+}
+
+@media (max-width:576px){
+    body{
+        margin:1em 0;
+    }
+    h1{
+        line-height:2;
+    }
+    ul{
+        margin: 1em 0;
+    }
+}
