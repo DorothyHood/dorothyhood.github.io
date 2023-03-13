@@ -1,0 +1,15 @@
+body{
+    color: black;
+    background-color: lavender;
+    font-family: 'Tan Mon Cherri', sans-serif;
+    text-align:left
+
+}
+
+header{
+    text-align: center;
+}
+a:visited{
+    color: darkgreen;
+    text-decoration: none;
+}

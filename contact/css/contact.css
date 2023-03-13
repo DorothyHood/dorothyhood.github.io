@@ -1,0 +1,24 @@
+body{
+    color: black;
+    font-family: 'Tan Mon Cheri', sans-serif;
+    background-color: lavender;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'Tan Mon Cheri', sans-serif;
+    font-size:3em;
+}
+
+ul{
+    background-color: lightgray;
+    padding: 5% 20%;
+}
+
+
+
+footer{
+    font-family: 'Tan Mon Cheri', sans-serif;
+    line-height:.5;
+    font-size:.75em;
+}

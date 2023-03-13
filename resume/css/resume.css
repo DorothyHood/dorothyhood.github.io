@@ -1,0 +1,15 @@
+header{
+    text-align: left;
+    font-family: 'Ton Mon Cheri', sans-serif;
+    font-size: large;
+}
+body{
+    background-color: lavender;
+    font-family: 'Ton Mon Cheri', sans-serif;
+    font-size: medium;
+    text-align: left;
+}
+
+ul{
+    list-style-type: circle;
+}
