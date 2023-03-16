@@ -12,4 +12,14 @@ header{
 a:visited{
     color: darkgreen;
     text-decoration: none;
+    margin-top: 25px;
+    margin-right: 50px;
+    margin-bottom: 75px;
+    margin-left: 100px;
+}
+
+img{
+   margin: 20px; 
+   width: 275px;
+   
 }
