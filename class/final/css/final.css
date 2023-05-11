@@ -53,4 +53,7 @@ img {
     ul{
         margin: 1em 0;
     }
+    .container{
+        width: auto;
+    }
 }
