@@ -1,17 +1,22 @@
 body {
-    background-color: lightgreen;
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size:20px;
+    background-color: rgb(183, 235, 183);
+    font-family: 'Bebas Neue', sans-serif;
+    font-size:18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
 }
 h1 {
-    font-family: 'Orbitron', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
     font-size:3em;
+    color: rgb(11, 90, 43);
 }
-
-
-iframe,footer{
-    width: 100%;
+img{
+    max-width: 100%;
     height: auto;
+    align-items: center;
 }
 
 @media (max-width:576px){
