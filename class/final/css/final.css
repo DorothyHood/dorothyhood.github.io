@@ -19,11 +19,11 @@ header{
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-  }
+}
 
 body {
     background-color: rgb(183, 235, 183);
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size:18px;
     display: flex;
     justify-content: center;
@@ -31,8 +31,11 @@ body {
     text-align: center;
     padding: 20px;
 }
+main {
+    margin: 2em 0;
+}
 h1 {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Roberto Condensed', sans-serif;
     font-size:3em;
     color: rgb(11, 90, 43);
 }
@@ -41,7 +44,7 @@ img {
     margin: 0 auto;
     max-width: 100%;
     height: auto;
-  }
+}
 
 @media (max-width:576px){
     body{
